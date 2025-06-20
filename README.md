@@ -1,19 +1,28 @@
-# 🎈 Blank app template
 
-A simple Streamlit app template for you to modify!
+# Habla-Jungla
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Project Description
+A jungle-themed communication platform for connecting with nature enthusiasts.
 
-### How to run it on your own machine
+## Features
+- Real-time messaging
+- Community forums
+- Nature-themed interface
 
-1. Install the requirements
+## Technology Stack
+React, Node.js, MongoDB
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## Installation
+Clone the repository and run `npm install` followed by `npm start`.
 
-2. Run the app
+## Usage
+Join the community and start connecting with fellow nature lovers.
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any inquiries, please contact DevGruGold AKA Joseph Andrew Lee.
